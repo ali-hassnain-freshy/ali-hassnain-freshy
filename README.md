@@ -1,4 +1,4 @@
-<img src="YOUR_AVATAR_URL" width="150" align="left" />
+<img src="download.png" width="150" align="left" />
 
 # Hi there 👋
 
