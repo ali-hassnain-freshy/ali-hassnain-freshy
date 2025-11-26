@@ -50,8 +50,8 @@
 ![Classification](https://img.shields.io/badge/-Classification-6BCB77?style=flat-square)
 ![Clustering](https://img.shields.io/badge/-Clustering-4D96FF?style=flat-square)
 
-## GitHub Stats:
-![ali-hassnain-freshy's Github Stats](https://github-readme-stats.vercel.app/api?username=ali-hassnain-freshy&show_icons=true&theme=dark)
+## Personal Portfolio Website
+alimaherstudiop.netlify.app
 
 ## Top Data Science & ML Projects:
 - [Data-Portfolio](https://github.com/ali-hassnain-freshy/Data-Portfolio) - Comprehensive ML & data science projects
